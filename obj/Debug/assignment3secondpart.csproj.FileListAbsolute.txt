@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\assignment3secondpart\assignment3secondpart\bin\Debug\assignment3secondpart.exe.config
+C:\Users\moham\source\repos\assignment3secondpart\assignment3secondpart\bin\Debug\assignment3secondpart.exe
+C:\Users\moham\source\repos\assignment3secondpart\assignment3secondpart\bin\Debug\assignment3secondpart.pdb
+C:\Users\moham\source\repos\assignment3secondpart\assignment3secondpart\obj\Debug\assignment3secondpart.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\assignment3secondpart\assignment3secondpart\obj\Debug\assignment3secondpart.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\assignment3secondpart\assignment3secondpart\obj\Debug\assignment3secondpart.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\assignment3secondpart\assignment3secondpart\obj\Debug\assignment3secondpart.exe
+C:\Users\moham\source\repos\assignment3secondpart\assignment3secondpart\obj\Debug\assignment3secondpart.pdb
